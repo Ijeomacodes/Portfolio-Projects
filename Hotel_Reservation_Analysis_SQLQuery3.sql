@@ -14,8 +14,8 @@ SELECT TOP (3) [Booking_ID]
 
 
 
-  --QUESTION 1
-  -- What is the total number of reservations in the dataset?   700
+               --QUESTION 1
+               -- What is the total number of reservations in the dataset?   700
 
 SELECT COUNT(Booking_ID)
 FROM   dbo.[Hotel Reservation Dataset]
